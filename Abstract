@@ -1,0 +1,13 @@
+TRAVEL JOURNAL APPLICATION
+
+ABSTRACT
+The Travel Journal Application is designed as a personal digital diary for users who love to travel and document their experiences. 
+It serves as a platform where travelers can create, store, and share their journey logs with details such as locations visited, dates, personal notes, and photos. 
+The application aims to provide a user-friendly interface for travelers to easily record and revisit their travel memories.
+
+Core Features
+User Authentication: Users can register for a new account and log in to access their personal travel journal. The authentication system ensures that users' data is secure and private.
+Journal Entries Management: After logging in, users can create new travel entries, each consisting of the location visited, travel dates, descriptive notes, and the ability to upload photos capturing their experiences.
+Viewing and Editing Entries: Users can view a list of their travel entries on the homepage. Each entry can be clicked on to view in detail, allowing users to relive their memories. Users have the ability to edit or delete any of their entries.
+Search and Filter: Users can search for entries based on location or date, and filter their journal entries to find specific trips quickly.
+Profile Management: Users can view their profile, update their personal information, and customize settings related to their journal, such as choosing to keep their entries private or shareable via a link.
